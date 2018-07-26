@@ -1,0 +1,51 @@
+body {
+  font-family: 'Titillium Web', sans-serif;
+}
+
+.navbar {
+  background: #42a5f5;
+}
+
+.navbar span {
+  color: #ffff00;
+}
+
+
+.navbar-brand {
+  font-size: 20px;
+  color: #fff;
+  font-weight: bold;
+}
+
+.navbar-brand:hover {
+
+  color: #fff;
+
+}
+
+.navbar-nav a {
+  color: #fff;
+}
+
+.navbar-nav a:hover {
+  background: #fff;
+  color: #42a5f5;
+  border-radius: 1em;
+}
+
+#testimonial {
+  background: #42a5f5;
+  padding: 50px 0 30px 0;
+  color: #fff;
+  text-align:center;
+  margin-top: 40px;
+}
+
+
+#contact {
+
+}
+footer {
+  background: #42a5f5;
+  color: #fff;
+}
